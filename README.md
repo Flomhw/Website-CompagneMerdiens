@@ -1,4 +1,4 @@
-# Website-CompagneMerdiens
+# Website Compagnie Les Meridiens
 [Freelancer Project] : La Compagnie les méridiens
 
 Date : 2019
